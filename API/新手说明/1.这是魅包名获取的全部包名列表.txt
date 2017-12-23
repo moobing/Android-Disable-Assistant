@@ -1,0 +1,101 @@
+视频 - com.lenovo.videoplayer
+云服务 - com.lenovo.leos.cloud.sync
+联想世界 - com.lenovo.lockscreen.theme.ideaworld
+小区广播 - com.android.cellbroadcastreceiver
+设备服务 - com.lenovo.lsf.device
+ANT HAL Service - com.dsi.ant.server
+搜索 - com.lenovo.lenovosearch
+主题中心 - com.lenovo.themecenter
+照片屏幕保护程序 - com.android.dreams.phototable
+系统升级 - com.lenovo.ota
+设置 - com.android.settings
+音乐 - com.lenovo.music
+UpdateAssist - com.lenovo.updateassist
+玩家教程 - com.lenovo.PlayersTutorial
+浏览器 - com.lenovo.browser
+乐桌面 - com.lenovo.launcher
+音乐可视化壁纸 - com.android.musicvis
+乐壁纸 - com.vlife.lenovo.wallpaper
+联想相机与相册 - com.lenovo.scgqc
+Live Wallpaper Picker - com.android.wallpaper.livepicker
+收音机 - com.lenovo.fm
+应用包安装程序 - com.android.packageinstaller
+设备管理服务 - com.redstone.mdm.framework
+电话/短信存储 - com.android.providers.telephony
+Pico TTS - com.svox.pico
+个人热点 - com.lenovo.android.settings.tether
+泡泡 - com.android.noisefield
+方正兰亭纤黑 - com.lenovo.font.theme.lenovodefaultxianhei
+com.qualcomm.agent - com.qualcomm.agent
+Fused Location - com.android.location.fused
+com.android.backupconfirm - com.android.backupconfirm
+设置存储 - com.android.providers.settings
+魔幻烟雾壁纸 - com.android.magicsmoke
+经典 - lenovo
+LocationServices - com.qualcomm.services.location
+com.qualcomm.qcrilmsgtunnel - com.qualcomm.qcrilmsgtunnel
+下载管理器 - com.android.providers.downloads
+移动门户 - com.lenovo.mobileportal
+MusicFX - com.android.musicfx
+镭光 - com.android.phasebeam
+录音机 - com.android.soundrecorder
+Exchange 服务 - com.lenovo.exchange
+IdeaFriendSecreteCode - com.IdeaFriendSecreteCode
+时钟 - com.lenovo.deskclock
+日历 - com.lenovo.calendar
+Android 键盘 (AOSP) - com.android.inputmethod.latin
+联想天气壁纸 - com.lenovo.weatherlivewallpaper
+WLAN位置绑定 - com.lenovo.wifiswitch
+com.android.wifi.cmcc - com.android.wifi.cmcc
+电子邮件 - com.lenovo.email
+文件管家 - com.lenovo.FileBrowser
+乐省电 - com.lenovo.powercenter
+BatteryWarnings - com.lenovo.batterywarnings
+Input Devices - com.android.inputdevices
+com.android.wallpaper.holospiral - com.android.wallpaper.holospiral
+com.qualcomm.rcsimsbootstraputil - com.qualcomm.rcsimsbootstraputil
+私密保险箱 - com.lenovo.safebox
+FastBoot - com.qualcomm.fastboot
+时光 - com.lenovo.lockscreen.theme.age
+SIM卡应用 - com.android.stk
+com.qualcomm.shutdownlistner - com.qualcomm.shutdownlistner
+联想世界 - com.lenovo.ideafriend.theme.ideaworld
+User Dictionary - com.android.providers.userdictionary
+谷歌拼音输入法 - com.android.inputmethod.pinyin
+联想天气 - com.lenovo.lewea
+极光 - com.lenovo.bootshut.theme.aurora
+爱转角 - com.lenovo.lockscreen.theme.lovecorner
+联想通讯录 - com.lenovo.ideafriend
+Lenovo Weather Server - com.lenovo.weatherserver
+org.codeaurora.bluetooth - org.codeaurora.bluetooth
+摩卡 - com.lenovo.lockscreen.theme.mocha
+Black Hole - com.android.galaxy4
+默认 - com.lenovo.bootshut.lenovodefault
+指南针 - com.lenovo.compass
+时光 - com.lenovo.theme.bigtheme_age
+SdcardOperate - com.lenovo.SdcardOperate
+Android 系统 - android
+简而未减 - com.lenovo.ideafriend.theme.lessismore
+联系人存储 - com.android.providers.contacts
+LocationServices - com.qualcomm.location
+达芬奇 - com.lenovo.lockscreen.theme.davinci
+搜索应用提供程序 - com.android.providers.applications
+设备管理 - com.redstone.mdm.std
+情景模式设置 - com.android.profilesettings
+基本互动屏保 - com.android.dreams.basic
+Lenovo Weather Theme - com.lenovo.lenovoweathertheme
+通知中心 - com.android.systemui
+记事本 - com.lenovo.notebook
+密钥链 - com.android.keychain
+com.android.smspush - com.android.smspush
+com.qualcomm.qcom_qmi - com.qualcomm.qcom_qmi
+Android 动态壁纸 - com.android.wallpaper
+达芬奇 - com.lenovo.theme.bigtheme_classic
+系统壁纸 - com.lenovo.syswallpaper
+手电筒 - com.lenovo.lenovohdllight
+Shell - com.android.shell
+WLAN分享 - com.lenovo.wifidirect.share
+GPSTest - com.lenovo.GPS
+乐安全 - com.lenovo.safecenter
+开机向导 - com.lenovo.setupwizard
+暗码 - com.lenovo.SecretCode
